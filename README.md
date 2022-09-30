@@ -1,4 +1,6 @@
 # Fairhouse
+The Fairhouse example has been moved to: https://github.com/angular/introduction-to-angular and the [updated instructional video can be found on YouTube](https://www.youtube.com/watch?v=qxchrt04bTA).
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
 
